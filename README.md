@@ -1,5 +1,5 @@
 <h1 align="center">🌟 Hello, my name is Julia and I'm a Brazilian Developer 🌟</h1>
-<h3 align="center">I'm a self-motivated person who haves a lot of creativity. Discord.js is my specialty.</h3>
+<h3 align="center">I'm a self-motivated person who has a lot of creativity. Discord.js is my specialty.</h3>
 <img src="https://media.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right">
 
 - 🔭 I'm currently working on [Jolyne](https://github.com/JwiaJwia/Jolyne)
